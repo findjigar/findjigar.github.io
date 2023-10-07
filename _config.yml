@@ -1,5 +1,7 @@
 name: Jigar Brahmbhatt's blog
 title: Jigar Brahmbhatt's blog
+kramdown:
+  input: Kramdown
 twitter:
   username: shaktiman_droid
   card: summary
