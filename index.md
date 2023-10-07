@@ -18,5 +18,6 @@ title: Jigar Brahmbhatt Blog
 
 ## Social
 
-- [Twitter (X))](https://twitter.com/shaktiman_droid)
-- 
+- [Twitter (X)](https://twitter.com/shaktiman_droid)
+- [LinkedIn](https://www.linkedin.com/in/shaktiman-droid/)
+- [Github](https://github.com/findjigar/)
