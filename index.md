@@ -11,6 +11,6 @@ title: Jigar Brahmbhatt Blog
 - 2022-03-14 | [@JsExport guide for exposing Kotlin to JS](https://dev.to/touchlab/jsexport-guide-for-exposing-kotlin-to-js-20l9){:target="_blank" rel="noopener"}
 - 2022-03-04 | [Add Kotlin/JS support to your KMM library](https://dev.to/touchlab/add-kotlinjs-support-to-your-kmm-library-48d9){:target="_blank" rel="noopener"}
 - 2020-12-23 | [In-App Purchase Setup in Android Google Play Apps](https://www.namiml.com/blog/set-up-iap-google-play-android-app){:target="_blank" rel="noopener"}
-## Talks
+<!-- ## Talks
 
-- 2023-09-01 | Integrating Kotlin/JS in a KMP library @ Droidcon NYC, 2022 ([Speaker Deck](https://speakerdeck.com/findjigar/js-in-a-kmp-library){:target="_blank" rel="noopener"}) ([Video](https://youtu.be/ZWTkvQz9VUI){:target="_blank" rel="noopener"})
+- 2023-09-01 | Integrating Kotlin/JS in a KMP library @ Droidcon NYC, 2022 ([Speaker Deck](https://speakerdeck.com/findjigar/js-in-a-kmp-library){:target="_blank" rel="noopener"}) ([Video](https://youtu.be/ZWTkvQz9VUI){:target="_blank" rel="noopener"}) -->
