@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jigar Brahmbhatt Blog
+title: Jigar Brahmbhatt
 ---
 ## Blog Posts
 
