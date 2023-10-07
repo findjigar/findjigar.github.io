@@ -1,5 +1,3 @@
-# Jigar Brahmbhatt
-
 ## 2023
 
 ### Articles
