@@ -1,3 +1,7 @@
+---
+layout: post
+title: Jigar Brahmbhatt Blog
+---
 ## 2023
 
 ### Articles
