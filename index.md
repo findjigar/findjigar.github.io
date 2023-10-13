@@ -2,7 +2,9 @@
 layout: post
 title: Jigar Brahmbhatt
 ---
-![me](/me.png)
+
+![profile photo](/me.png)
+
 # Jigar Brahmbhatt
 
 Hi, I'm Jigar, an experienced software engineer specializing in Android app and SDK development, deeply engaged in Kotlin Multiplatform. I'm passionate about creating intuitive, accessible user experiences through design and advocate for secure coding practices, thorough testing, and robust software architecture. As a natural leader, I enjoy mentoring teams, fostering an environment of equity, transparency, and empathy, valuing diversity and respecting everyone's contributions.
