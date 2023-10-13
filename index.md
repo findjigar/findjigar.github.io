@@ -4,6 +4,8 @@ title: Jigar Brahmbhatt
 ---
 # Jigar Brahmbhatt
 
+Hi, I'm Jigar, a seasoned software engineer with 11+ years of expertise in Android app and SDK development, currently immersed in Kotlin Multiplatform. I'm passionate about creating intuitive, accessible user experiences through design and advocate for secure coding practices, thorough testing, and robust software architecture. As a natural leader, I enjoy mentoring teams, fostering an environment of equity, transparency, and empathy, valuing diversity and respecting everyone's contributions.
+
 ## Blog Posts
 
 - <span style="color: grey">2023-10-04</span> » [Optimizing Gradle Builds in Multi-module Projects](https://touchlab.co/optimizing-gradle-builds-in-Multi-module-projects){:target="_blank" rel="noopener"}
