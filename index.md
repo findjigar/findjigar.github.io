@@ -24,6 +24,10 @@ Hi, I'm Jigar, an experienced software engineer specializing in Android app and 
 - <span style="color: grey">2018-08-09</span> » Building Android SDK @ GDG Toronto Android ([Speaker Deck](https://speakerdeck.com/findjigar/building-android-sdk){:target="_blank" rel="noopener"}) ([Video](https://www.youtube.com/watch?v=epwAhLWkPCY){:target="_blank" rel="noopener"})
 - <span style="color: grey">2017-01-21</span> » Android Pitfalls and Anti-patterns @ MAD (Mumbai Android Developers) Meetup ([Speaker Deck](https://speakerdeck.com/findjigar/android-pitfalls-and-anti-patterns){:target="_blank" rel="noopener"})
 
+## Paper
+
+[On the relation between tourism and trade: A network experiment](https://ieeexplore.ieee.org/document/6609197) - 2013 IEEE 2nd Network Science Workshop (NSW)
+
 ## Social
 
 - [Twitter (X)](https://twitter.com/shaktiman_droid)
