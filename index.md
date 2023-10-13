@@ -15,6 +15,10 @@ title: Jigar Brahmbhatt
 ## Talks
 
 - <span style="color: grey">2023-09-01</span> » Integrating Kotlin/JS in a KMP library @ Droidcon NYC, 2022 ([Speaker Deck](https://speakerdeck.com/findjigar/js-in-a-kmp-library){:target="_blank" rel="noopener"}) ([Video](https://youtu.be/ZWTkvQz9VUI){:target="_blank" rel="noopener"})
+- <span style="color: grey">2020-06-17</span> » Kotlin 102 @ GDG Toronto Android ([Speaker Deck](https://speakerdeck.com/findjigar/kotlin-102){:target="_blank" rel="noopener"}) ([Video](https://www.youtube.com/watch?v=O6EmGzAGnuk){:target="_blank" rel="noopener"})
+- <span style="color: grey">2019-08-20</span> » Kotlin gotchas and random rants @ GDG Toronto Android ([Speaker Deck](https://speakerdeck.com/findjigar/kotlin-gotchas-and-random-rants){:target="_blank" rel="noopener"}) ([Video](https://www.youtube.com/watch?v=mNviUg0ocsk){:target="_blank" rel="noopener"})
+- <span style="color: grey">2018-08-09</span> » Building Android SDK @ GDG Toronto Android ([Speaker Deck](https://speakerdeck.com/findjigar/building-android-sdk){:target="_blank" rel="noopener"}) ([Video](https://www.youtube.com/watch?v=epwAhLWkPCY){:target="_blank" rel="noopener"})
+- <span style="color: grey">2017-01-21</span> » Android Pitfalls and Anti-patterns @ MAD (Mumbai Android Developers) Meetup ([Speaker Deck](https://speakerdeck.com/findjigar/android-pitfalls-and-anti-patterns){:target="_blank" rel="noopener"})
 
 ## Social
 
