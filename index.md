@@ -11,6 +11,7 @@ Hi, I'm Jigar, an experienced software engineer specializing in Android app and 
 
 ## Blog Posts
 
+- <span style="color: grey">2023-10-18</span> » [Logger.i() Not Your Style? Customize Kermit Logger!](https://touchlab.co/kermit-custom-logger){:target="_blank" rel="noopener"}
 - <span style="color: grey">2023-10-04</span> » [Optimizing Gradle Builds in Multi-module Projects](https://touchlab.co/optimizing-gradle-builds-in-Multi-module-projects){:target="_blank" rel="noopener"}
 - <span style="color: grey">2023-02-08</span> » [Jetpack Compose: A use case for view interop migration strategy](https://touchlab.co/jetpack-compose-a-use-case-for-view-interop-migration-strategy/){:target="_blank" rel="noopener"}
 - <span style="color: grey">2023-01-27</span> » [KMP: A Use Case For Common UI Behavior](https://touchlab.co/kmp-a-use-case-for-common-ui-behavior/){:target="_blank" rel="noopener"}
