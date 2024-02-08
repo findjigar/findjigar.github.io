@@ -11,6 +11,7 @@ Hi, I'm Jigar, an experienced software engineer specializing in Android app and 
 
 ## Blog Posts
 
+- <span style="color: grey">2024-02-01</span> » [Kotlin 1.9.20: Streamlining Source Sets in Multiplatform Project](https://touchlab.co/kotlin-1-9-20-source-set-enhancements){:target="_blank" rel="noopener"}
 - <span style="color: grey">2023-10-20</span> » [Kermit Now Supports WASM](https://touchlab.co/wasm-in-kermit){:target="_blank" rel="noopener"}
 - <span style="color: grey">2023-10-18</span> » [Logger.i() Not Your Style? Customize Kermit Logger!](https://touchlab.co/kermit-custom-logger){:target="_blank" rel="noopener"}
 - <span style="color: grey">2023-10-04</span> » [Optimizing Gradle Builds in Multi-module Projects](https://touchlab.co/optimizing-gradle-builds-in-Multi-module-projects){:target="_blank" rel="noopener"}
