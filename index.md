@@ -7,7 +7,7 @@ title: Jigar Brahmbhatt
 
 # Jigar Brahmbhatt
 
-Hi, I'm Jigar, a mobile engineer and technical leader with 14+ years of experience building Android apps and SDKs, specializing in Kotlin Multiplatform. I love working at the intersection of hands-on engineering, team leadership, and product thinking, shaping not just how things are built but what gets built and why. I care deeply about developer productivity, clean API design, and building teams where transparency, empathy, and every voice is valued. These days I'm increasingly thinking in product terms while staying close to the code, and I genuinely enjoy the adventure of taking a team from a hard problem to a shipped solution.
+Hi, I'm Jigar, a mobile engineering leader with 14+ years of experience building Android apps and SDKs, specializing in Kotlin Multiplatform since 2021. Today I'm the technical lead of the Edge AI program at [IMS](https://edge.ims.tech/){:target="_blank" rel="noopener"}, where we run driver risk scoring and crash detection entirely on the user's phone. I guide our SDK team, mentor data scientists in mobile engineering, and help shape not just how things are built but what gets built and why. I care deeply about developer productivity, clean API design, and building teams with equity, transparency, and empathy, where every voice is valued. Lately I'm also working through what AI-assisted engineering means for teams, both its promise and its risks. I genuinely enjoy the adventure of taking a team from a hard problem to a shipped solution.
 
 ## Blog Posts
 
